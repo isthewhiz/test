@@ -17,7 +17,7 @@ www.facebook.com:HSTS	0	18272	1610237407660,1,1,2
 track.hubspot.com:HSTS	0	18271	1610236363963,1,1,2
 cdn.ampproject.org:HSTS	0	18272	1610238301261,1,1,2
 cdn.optimizely.com:HSTS	0	18272	1594469387615,1,0,2
-incoming.telemetry.mozilla.org:HSTS	0	18271	1594468374242,1,0,2
+incoming.telemetry.mozilla.org:HSTS	1	18272	1594471338579,1,0,2
 services.addons.mozilla.org:HPKP	0	18271	1583883152542,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 linuxize-com.disqus.com:HSTS	0	18272	1578702589511,1,1,2
 enrichment.api.drift.com:HSTS	0	18272	1610237415338,1,1,2
@@ -31,7 +31,7 @@ ajax.cloudflare.com:HSTS	0	18272	1594481081160,1,1,2
 www.npmjs.com:HSTS	0	18271	1610236344869,1,0,2
 tecadmin.net:HSTS	0	18271	1610236774672,1,1,2
 ssl.google-analytics.com:HSTS	0	18272	1589588690043,1,1,2
-js.driftt.com:HSTS	0	18272	1610238705143,1,1,2
+js.driftt.com:HSTS	0	18272	1610239306455,1,1,2
 connect.facebook.net:HSTS	0	18272	1610237406523,1,1,2
 tiles.services.mozilla.com:HSTS	1	18272	1610238281980,1,0,2
 staticxx.facebook.com:HSTS	0	18272	1594253187206,1,0,2
