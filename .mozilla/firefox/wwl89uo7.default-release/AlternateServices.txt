@@ -1,0 +1,1 @@
+http:create-react-app.dev:80:.:	0	18271	http:create-react-app.dev:80:create-react-app.dev:443::n:1578700434:h2:y:1578700315:n::https://www.npmjs.com|

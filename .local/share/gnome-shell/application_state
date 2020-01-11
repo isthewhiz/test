@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="259" last-seen="1578702368"/>
+    <application id="org.gnome.DiskUtility.desktop" open-window-count="0" score="1" last-seen="1578698754"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-network-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="gnome-control-center.desktop" open-window-count="1" score="134" last-seen="1578700151"/>
+    <application id="ubiquity.desktop" open-window-count="0" score="1" last-seen="1578698778"/>
+    <application id="firefox.desktop" open-window-count="1" score="79" last-seen="1578702377"/>
+  </context>
+</application-state>
